@@ -1,5 +1,5 @@
-var Appointments = React.createReactClass({
-    render: function() {
-        return <h1>Test</h1>
+class Appointments extends React.Component {
+    constructor(props) {
+        super(props);
     }
-}); 
+}
