@@ -1,3 +1,5 @@
-var Appointments = function() {
-    return <h1>Test</h1>;
-};
+var Appointments = React.createReactClass({
+    render: function() {
+        return <h1>Test</h1>
+    }
+}); 
