@@ -9,3 +9,5 @@ Let's just say it's going to be overlapping practice!
 ##### 25/02/2018: 18:41 - 18:59:pool[install react-rails]
 
 ##### 27/02/2018: 20:59 - 21:10:pool[begin work on calreact]
+
+##### 27/02/2018: 21:10 - 21:14:pool[fill out index.html.erb]
