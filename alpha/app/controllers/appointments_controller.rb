@@ -5,6 +5,8 @@ class AppointmentsController < ApplicationController
   end
 
   def create
+    if @appointment.save
 
+    end
   end
 end
