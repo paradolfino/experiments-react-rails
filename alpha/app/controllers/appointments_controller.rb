@@ -9,4 +9,10 @@ class AppointmentsController < ApplicationController
 
     end
   end
+
+  private
+
+  def params_appt
+    params.require(:appointment).permit(:title, :appt_time)
+  end
 end
