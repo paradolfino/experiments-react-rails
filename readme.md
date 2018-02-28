@@ -13,3 +13,5 @@ Let's just say it's going to be overlapping practice!
 ##### 27/02/2018: 21:10 - 21:14:pool[fill out index.html.erb]
 
 ##### 27/02/2018: 21:14 - 21:15:pool[set up appointments controller]
+
+##### 27/02/2018: 21:15 - 21:27:pool[add css for appointments]
