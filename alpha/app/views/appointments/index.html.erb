@@ -11,4 +11,5 @@
 
 <% @appointments.each do |a| %>
     <%= content_tag :h3, a.title %>
+    <%= content_tag :p, a.appt_time %>
 <% end %>
