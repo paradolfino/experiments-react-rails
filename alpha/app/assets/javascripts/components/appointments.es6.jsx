@@ -3,6 +3,6 @@ class Appointments extends React.Component {
         super(props);
     }
     render() {
-        return <h1>Test</h1>;
+        return <h1>CalReact</h1>;
     }
 }

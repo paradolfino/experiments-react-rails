@@ -1,2 +1,15 @@
-<%= react_component 'Appointments' %>
+<%= content_tag :h1, "React Calendar" %>
+<%= content_tag :h2, "Appointments" %>
+<%= content_tag :h3, "Make new Appointment" %>
+
+<%= form_for @appointment, remote: true do |f| %>
+    <%= f.text_field :title %>
+    <%= f.text_field :appt_time %>
+    <%= f.submit %>
+
+<% end %>
+
+<div>
+    <%= render 'appointments' %>
+</div>
 
