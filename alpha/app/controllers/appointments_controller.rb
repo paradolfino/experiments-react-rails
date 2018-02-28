@@ -7,7 +7,7 @@ class AppointmentsController < ApplicationController
   def create
     @appointment = Appointment.new(params_appt)
     if @appointment.save
-      
+      redirect_to appointments_path
     end
   end
 
