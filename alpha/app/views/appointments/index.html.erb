@@ -3,5 +3,7 @@
 <%= content_tag :h3, "Make new Appointment" %>
 
 <% form_for @appointment do |f| %>
+    <%= f.text_field :title %>
+    <%= f.text_field :appt_time %>
 
 <% end %>
