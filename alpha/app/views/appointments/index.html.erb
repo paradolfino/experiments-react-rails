@@ -2,7 +2,7 @@
 <%= content_tag :h2, "Appointments" %>
 <%= content_tag :h3, "Make new Appointment" %>
 
-<% form_for @appointments do |f| %>
+<% form_for @appointment do |f| %>
     <%= f.text_field :title %>
     <%= f.text_field :appt_time %>
     <%= f.submit %>
