@@ -5,6 +5,7 @@ class AppointmentsController < ApplicationController
   end
 
   def create
+    @appointment = Appointment.new(params_appt)
     if @appointment.save
 
     end
