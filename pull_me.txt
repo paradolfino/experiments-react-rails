@@ -1,9 +1,6 @@
 
-[begin working with calreact using just erb]
-### 27/02/2018[20:59 - 21:31]:
-* begin work on calreact
-* fill out index.html.erb
-* set up appointments controller
-* add css for appointments
-* place appointments array code in partial
+[implement new project using haml templates instead of erb]
+### 06/03/2018[20:33 - 21:00]:
+* beta
+* implement haml
 
