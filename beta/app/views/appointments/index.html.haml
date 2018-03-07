@@ -10,6 +10,5 @@
     = f.text_field :appt_time
     = f.submit 'Make Appointment'
 
-    - @appointments.each do |a|
-        %h3= a.title
-        %p= a.appt_time
+#appointments
+    = render 'appointments'
