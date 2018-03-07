@@ -7,4 +7,10 @@ class AppointmentsController < ApplicationController
   def create
     @appointment = Appointment.create(appt_params)
   end
+
+  private
+
+    def appt_params
+      params.require(:appointment).permit(:title, :appt_time)
+    end
 end
