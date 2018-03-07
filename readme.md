@@ -17,3 +17,5 @@ Let's just say it's going to be overlapping practice!
 ##### 27/02/2018: 21:15 - 21:27:pool[add css for appointments]
 
 ##### 27/02/2018: 21:27 - 21:31:pool[place appointments array code in partial]
+
+##### 06/03/2018: 20:33 - 20:42:pool[beta]
