@@ -3,7 +3,7 @@ class Appointments extends React.Component {
         return (
             <div>
                 {this.props.appointments.map((appt)=>{
-                    return <p>{appt}</p>;
+                    return <p>{appt.title}</p>;
                 })}
             </div>
         );
