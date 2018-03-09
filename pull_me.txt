@@ -1,6 +1,1 @@
 
-[implement new project using haml templates instead of erb]
-### 06/03/2018[20:33 - 21:00]:
-* beta
-* implement haml
-
