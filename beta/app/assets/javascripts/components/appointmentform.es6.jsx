@@ -4,6 +4,7 @@ class AppointmentForm extends React.Component {
             <form>
                 <input name='title' placeholder='Appointment Title'/>
                 <input name='appt_time' placeholder='Appointment Time'/>
+                <input type="submit" value="Make Appointment"/>
             </form>
         );
     }
