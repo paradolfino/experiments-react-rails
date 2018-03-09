@@ -8,3 +8,5 @@ class Appointment extends React.Component {
         );
     }
 }
+
+export default Appointment;
