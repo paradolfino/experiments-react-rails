@@ -4,7 +4,7 @@ class Appointments extends React.Component {
 
             <div>
                 <AppointmentForm />
-                <AppointmentsList appointments={appointments} />
+                <AppointmentsList appointments={this.props.appointments} />
             </div>
         );
     }
