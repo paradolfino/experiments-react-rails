@@ -1,1 +1,6 @@
 
+[implement nested react components to replace erb UI]
+### 08/03/2018[20:33 - 20:55]:
+* redirect on submission
+* begin work on appointments component
+

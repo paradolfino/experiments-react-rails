@@ -23,3 +23,5 @@ Let's just say it's going to be overlapping practice!
 ##### 06/03/2018: 20:42 - 21:00:pool[implement haml]
 
 ##### 08/03/2018: 20:33 - 20:35:pool[redirect on submission]
+
+##### 08/03/2018: 20:35 - 20:55:pool[begin work on appointments component]
