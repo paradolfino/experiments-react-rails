@@ -7,3 +7,4 @@
 27/02/2018: 21:27 - 21:31:pool[place appointments array code in partial]
 06/03/2018: 20:33 - 20:42:pool[beta]
 06/03/2018: 20:42 - 21:00:pool[implement haml]
+08/03/2018: 20:33 - 20:35:pool[redirect on submission]
